@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "ResumePro AI",
+    "description": "Create professional resumes with AI-powered suggestions.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "FaFileAlt"
+  },
+  {
+    "id": 2,
+    "name": "TaskFlow",
+    "description": "Smart task and productivity management for teams.",
+    "price": 49,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Unlimited tasks",
+      "Team collaboration",
+      "Calendar integration"
+    ],
+    "icon": "FaTasks"
+  },
+  {
+    "id": 3,
+    "name": "CodeMaster",
+    "description": "Interactive coding practice platform for developers.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "500+ coding challenges",
+      "Real-time compiler",
+      "Leaderboard system"
+    ],
+    "icon": "FaCode"
+  },
+  {
+    "id": 4,
+    "name": "FitTrack",
+    "description": "Track workouts, calories, and health goals easily.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Workout planner",
+      "Nutrition tracking",
+      "Progress analytics"
+    ],
+    "icon": "FaDumbbell"
+  },
+  {
+    "id": 5,
+    "name": "CloudVault",
+    "description": "Secure cloud storage for personal and business files.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "1TB cloud storage",
+      "File encryption",
+      "Multi-device sync"
+    ],
+    "icon": "FaCloud"
+  },
+  {
+    "id": 6,
+    "name": "Designify",
+    "description": "Easy-to-use graphic design tool for creators.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Drag and drop editor",
+      "Premium assets",
+      "Social media templates"
+    ],
+    "icon": "FaPaintBrush"
+  },
+  {
+    "id": 7,
+    "name": "StudyHub",
+    "description": "Online learning platform with interactive courses.",
+    "price": 59,
+    "period": "yearly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Live classes",
+      "Certificate programs",
+      "Downloadable resources"
+    ],
+    "icon": "FaBookOpen"
+  },
+  {
+    "id": 8,
+    "name": "ShopEase",
+    "description": "E-commerce toolkit for launching online stores.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": [
+      "Custom storefront",
+      "Payment gateway integration",
+      "Inventory management"
+    ],
+    "icon": "FaShoppingCart"
+  }
+]
