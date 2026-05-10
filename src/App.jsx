@@ -8,6 +8,8 @@ import ProductItems from './Components/ProductItems/ProductItems'
 import { Suspense } from 'react'
 import Accounts from './Components/Accounts/Accounts'
 import WorkFlow from './Components/WorkFlow/WorkFlow'
+import Footer from './Components/Footer/Footer'
+import PreFooter from './Components/PreFooter/PreFooter'
 
 
 
@@ -37,12 +39,13 @@ function App() {
             <ProductItems  productPromise={productPromise}/>
       </Suspense>
       <Accounts/>
+      <PreFooter/>
       <WorkFlow/>
 
     </main>
 
-    <footer>
-
+    <footer className=' container mx-auto max-w-400 px-50'>
+      <Footer/>
     </footer>
   
     </>

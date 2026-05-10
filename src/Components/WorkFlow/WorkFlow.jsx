@@ -1,7 +1,7 @@
 
 const WorkFlow = () => {
     return (
-        <section className="bg-linear-to-r from-[#4F39F6] to-[#9514FA]">
+        <section className="bg-linear-to-r from-[#4F39F6] to-[#9514FA] mt-20">
             <div className="p-15 flex flex-col justify-center items-center ">
                 <h2 className="font-extrabold text-4xl text-white">Ready to Transform Your Workflow?</h2>
                 <p className="text-white mt-4">Join thousands of professionals who are already using Digitools to work smarter.<br /> Start your free trial today.</p>
