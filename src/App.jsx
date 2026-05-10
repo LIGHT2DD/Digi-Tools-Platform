@@ -57,7 +57,7 @@ function App() {
     <>
       <header className="container mx-auto max-w-400 px-50">
         {" "}
-        <NavBar setView={setView} /> <HeroBanner />
+        <NavBar setView={setView} cart={cart} /> <HeroBanner />
       </header>
       <RatingBar />
       <main className="container mx-auto max-w-400 px-50">

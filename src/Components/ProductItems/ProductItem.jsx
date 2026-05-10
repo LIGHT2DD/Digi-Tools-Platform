@@ -19,7 +19,10 @@ const ProductItem = ({ products, addToCart }) => {
 
         <div className="mt-6 flex flex-col">
           <button
-            onClick={() => addToCart && addToCart(products)}
+            onClick={(e) => {
+              e.preventDefault();
+              addToCart && addToCart(products);
+            }}
             className="btn rounded-full text-white h-10 bg-linear-to-r from-[#4F39F6] to-[#9514FA]"
           >
             Buy Now

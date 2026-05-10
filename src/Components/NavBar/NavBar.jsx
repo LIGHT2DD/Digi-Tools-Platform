@@ -1,6 +1,7 @@
 import { ShoppingCart, UserKey } from "lucide-react";
 
-const NavBar = ({ setView }) => {
+const NavBar = ({ setView, cart = [] }) => {
+  const cartCount = cart.reduce((s, p) => s + (p.qty || 1), 0);
   return (
     <nav className="flex justify-between items-center w-11/12 ">
       <div className="start p-4">
@@ -51,9 +52,14 @@ const NavBar = ({ setView }) => {
             setView && setView("Cart");
             localStorage.setItem("view", "Cart");
           }}
-          className="flex items-center justify-center font-semibold text-base cursor-pointer"
+          className="flex items-center justify-center font-semibold text-base cursor-pointer relative"
         >
           <ShoppingCart size={24} />
+          {cartCount > 0 && (
+            <span className="absolute -top-2 -right-2 bg-red-500 text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
+              {cartCount}
+            </span>
+          )}
         </button>
         <button
           onClick={() => {
