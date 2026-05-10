@@ -6,12 +6,12 @@ const HeroBanner = () => {
     <section className="mt-8 space-y-4">
       <div className="flex justify-between items-center">
         <div className="left-part flex-1 mt-3">
-          <div class="inline-flex items-center gap-2 bg-[#E8E9FF] rounded-full px-4 py-2">
-            <span class="relative flex h-3 w-3">
-              <span class="absolute inline-flex h-full w-full rounded-full bg-[#7B3AF6] opacity-75"></span>
-              <span class="relative inline-flex rounded-full h-3 w-3 bg-[#7B3AF6]"></span>
+          <div className="inline-flex items-center gap-2 bg-[#E8E9FF] rounded-full px-4 py-2">
+            <span className="relative flex h-3 w-3">
+              <span className="absolute inline-flex h-full w-full rounded-full bg-[#7B3AF6] opacity-75"></span>
+              <span className="relative inline-flex rounded-full h-3 w-3 bg-[#7B3AF6]"></span>
             </span>
-            <span class="bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-transparent bg-clip-text font-medium">
+            <span className="bg-linear-to-r from-[#4F39F6] to-[#9514FA] text-transparent bg-clip-text font-medium">
               New: AI-Powered Tools Available
             </span>
           </div>
