@@ -1,122 +1,132 @@
 [
   {
     "id": 1,
-    "name": "ResumePro AI",
-    "description": "Create professional resumes with AI-powered suggestions.",
-    "price": 19,
-    "period": "monthly",
-    "tag": "Popular",
-    "tagType": "popular",
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "Mo",
+    "tag": "Best Seller",
     "features": [
-      "100+ templates",
-      "ATS optimization",
-      "Export to PDF"
-    ],
-    "icon": "FaFileAlt"
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ]
   },
   {
     "id": 2,
-    "name": "TaskFlow",
-    "description": "Smart task and productivity management for teams.",
-    "price": 49,
-    "period": "yearly",
-    "tag": "Best Seller",
-    "tagType": "best-seller",
+    "name": "Design Studio X",
+    "description": "Create stunning graphics, social posts, and branding materials with ease.",
+    "price": 19,
+    "period": "Mo",
+    "tag": "Good Product",
     "features": [
-      "Unlimited tasks",
-      "Team collaboration",
-      "Calendar integration"
-    ],
-    "icon": "FaTasks"
+      "500+ premium templates",
+      "Drag & drop editor",
+      "Team collaboration"
+    ]
   },
   {
     "id": 3,
-    "name": "CodeMaster",
-    "description": "Interactive coding practice platform for developers.",
-    "price": 29,
-    "period": "monthly",
-    "tag": "New",
-    "tagType": "new",
+    "name": "Code Mentor AI",
+    "description": "Improve your coding skills with AI-generated explanations and challenges.",
+    "price": 35,
+    "period": "Mo",
+    "tag": "Best Product",
     "features": [
-      "500+ coding challenges",
-      "Real-time compiler",
-      "Leaderboard system"
-    ],
-    "icon": "FaCode"
+      "Real-time code review",
+      "AI coding assistant",
+      "1000+ practice problems"
+    ]
   },
   {
     "id": 4,
-    "name": "FitTrack",
-    "description": "Track workouts, calories, and health goals easily.",
+    "name": "FitLife Plus",
+    "description": "Track workouts, nutrition, and daily wellness goals in one app.",
     "price": 15,
-    "period": "monthly",
-    "tag": "Popular",
-    "tagType": "popular",
+    "period": "Mo",
+    "tag": "Good Product",
     "features": [
-      "Workout planner",
-      "Nutrition tracking",
-      "Progress analytics"
-    ],
-    "icon": "FaDumbbell"
+      "Workout tracking",
+      "Meal planner",
+      "Health analytics"
+    ]
   },
   {
     "id": 5,
-    "name": "CloudVault",
-    "description": "Secure cloud storage for personal and business files.",
-    "price": 99,
-    "period": "yearly",
+    "name": "Cloud Backup Pro",
+    "description": "Securely store and access your files anytime from any device.",
+    "price": 49,
+    "period": "Yr",
     "tag": "Best Seller",
-    "tagType": "best-seller",
     "features": [
-      "1TB cloud storage",
-      "File encryption",
-      "Multi-device sync"
-    ],
-    "icon": "FaCloud"
+      "2TB cloud storage",
+      "Auto file sync",
+      "End-to-end encryption"
+    ]
   },
   {
     "id": 6,
-    "name": "Designify",
-    "description": "Easy-to-use graphic design tool for creators.",
-    "price": 25,
-    "period": "monthly",
-    "tag": "New",
-    "tagType": "new",
+    "name": "LearnFast Academy",
+    "description": "Access premium online courses and skill development programs.",
+    "price": 59,
+    "period": "Yr",
+    "tag": "Best Product",
     "features": [
-      "Drag and drop editor",
-      "Premium assets",
-      "Social media templates"
-    ],
-    "icon": "FaPaintBrush"
+      "Unlimited courses",
+      "Downloadable resources",
+      "Completion certificates"
+    ]
   },
   {
     "id": 7,
-    "name": "StudyHub",
-    "description": "Online learning platform with interactive courses.",
-    "price": 59,
-    "period": "yearly",
-    "tag": "Popular",
-    "tagType": "popular",
+    "name": "Marketing Boost",
+    "description": "Automate social media campaigns and improve audience engagement.",
+    "price": 27,
+    "period": "Mo",
+    "tag": "Best Seller",
     "features": [
-      "Live classes",
-      "Certificate programs",
-      "Downloadable resources"
-    ],
-    "icon": "FaBookOpen"
+      "Post scheduling",
+      "Analytics dashboard",
+      "AI hashtag generator"
+    ]
   },
   {
     "id": 8,
-    "name": "ShopEase",
-    "description": "E-commerce toolkit for launching online stores.",
-    "price": 39,
-    "period": "monthly",
-    "tag": "Best Seller",
-    "tagType": "best-seller",
+    "name": "Finance Tracker",
+    "description": "Manage expenses, savings, and budgets with smart insights.",
+    "price": 12,
+    "period": "Mo",
+    "tag": "Good Product",
     "features": [
-      "Custom storefront",
-      "Payment gateway integration",
-      "Inventory management"
-    ],
-    "icon": "FaShoppingCart"
+      "Expense categorization",
+      "Monthly reports",
+      "Savings goals"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Music Stream Max",
+    "description": "Enjoy unlimited music streaming with high-quality audio support.",
+    "price": 9,
+    "period": "Mo",
+    "tag": "Best Product",
+    "features": [
+      "Ad-free music",
+      "Offline downloads",
+      "High-quality audio"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Photo Editor Pro",
+    "description": "Edit and enhance photos with professional-grade tools.",
+    "price": 22,
+    "period": "Mo",
+    "tag": "Best Seller",
+    "features": [
+      "AI background remover",
+      "HD export",
+      "Premium filters"
+    ]
   }
 ]
